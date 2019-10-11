@@ -19,7 +19,5 @@ Executer la commande ci-dessous dans un terminal, dans le dossier que vous avez 
 
 ## Have fun!
 
-N'hésitez pas à aller voir le Core\Controller, pour connaître les quelques méthodes supplémentaires.
-
 ------------------------------------------
 modified by Skymon
