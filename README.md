@@ -1,12 +1,12 @@
 # Structure MVC (Model View Controller)
 ------------------------------------------
 
-Une structure MVC, créée lors de la formation AFORMAC 2019 - Développeur Web & Web Mobile.
+Une structure pour Symfony flex avec docker. 
 
 ## Installation
 
 Faire un git clone de ce projet dans un nouveau dossier    
-> git clone https://github.com/Simon-BEE/MVCstructure.git ./    
+> git clone https://github.com/Simon-BEE/SYMFOstructure.git ./    
 
 Copier le contenu .env.sample dans un nouveau fichier nommé .env et remplacé avec les valeurs voulues.    
 
@@ -18,8 +18,6 @@ Executer la commande ci-dessous dans un terminal, dans le dossier que vous avez 
 > ./start.sh
 
 ## Have fun!
-
-N'hésitez pas à aller voir le Core\Controller, pour connaître les quelques méthodes supplémentaires.
 
 ------------------------------------------
 modified by Skymon
