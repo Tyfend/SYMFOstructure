@@ -1,7 +1,8 @@
 # Structure MVC (Model View Controller)
 ------------------------------------------
 
-Une structure pour Symfony flex avec docker. 
+Une structure pour Symfony flex avec docker.
+(Yarn est installé sur le conteneur)
 
 ## Installation
 
